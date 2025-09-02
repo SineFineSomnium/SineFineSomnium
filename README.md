@@ -10,18 +10,18 @@
 ---
 
 ### <h2>Philosophy 
-  <h3 align="center">"Don't join an easy crowd.. you won't grown, Go where the expectation are hight, Go where the demaneds are hight, Go where the pressure is on to perform - to grown - to change - to develop - to learn - to read - to study - to develop skills "   -Jim rohn
+  <h3 align="center">"Don't join an easy crowd.. you won't grown, Go where the expectation are hight, Go where the demands are hight, Go where the pressure is on to perform - to grown - to change - to develop - to learn - to read - to study - to develop skills "   -Jim rohn
 
 ---
 
 Hello again, Welcome to my Github profile. :)
 
 ### 🚀 About Me
-- I'm male from Thailad.
+- I'm a man from Thailad.
 - 🧠 Passionate about coding, design, and turning ideas into reality.
 - 🌐 I love building for the web — from frontend ✨ to backend 🔧.
 - 🤝 Open for collaborations and interesting projects.
-- 📚 Currently learning: `AI`, `Next.js`, and `Rust`.
+- 📚 Currently learning: `AI`, `Next.js`, and `Rust`, Eveything.
 
 ---
 
